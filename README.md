@@ -20,6 +20,9 @@ The project is organized into the following directories:
   - Metadata analysis (`metadataAnalysis.ipynb`)
   - Segmentation (`segment.py`)
   - Testing (`test.ipynb`)
+ 
+## Methodology
+![screenshot](https://github.com/DimitrisTsel/Dermoscopy-Image-Classification/blob/main/outputs/image.png?raw=true")
 
 ## Dependencies
 
