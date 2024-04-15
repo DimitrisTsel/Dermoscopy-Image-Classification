@@ -1,6 +1,6 @@
 # Dermoscopy Image Classification for Melanoma Detection
 
-This project implements a deep learning approach for classifying dermoscopy images, potentially aiding in the diagnosis of melanoma. The project builds upon the master thesis titled ["Combining deep learning, handcrafted features, and metadata for the classification of dermoscopy images"](https://dione.lib.unipi.gr/xmlui/handle/unipi/15875). The proposed method involves the use of a combination of EfficientNet-B0 features, GLCM, LBP, color moments
+This project implements a deep learning approach for classifying dermoscopy images, aiding in the diagnosis of melanoma. The project builds upon the master thesis titled ["Combining deep learning, handcrafted features, and metadata for the classification of dermoscopy images"](https://dione.lib.unipi.gr/xmlui/handle/unipi/15875). The proposed method involves the use of a combination of EfficientNet-B0 features, GLCM, LBP, color moments
 features, and metadata features to improve base model's performance by **93,97% AUC score**.
 
 ## Project Structure
