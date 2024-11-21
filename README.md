@@ -51,7 +51,7 @@ The project uses a dermoscopy image dataset of [The ISIC 2020 Challenge](https:/
 
 ### Feature Extraction:
 
-- Extract color features from images (potentially using `colorfeatures.py`).
+- Extract color features from images (imports `colorfeatures.py`).
 - Extract handcrafted features, such as Grey Level Co-occurrence Matrix (GLCM) and Local Binary Pattern (LBP) features (imports `feature_extraction.py`).
 - Pre-trained deep learning models like DenseNet, VGG19, and EfficientNet for feature extraction.
 - Combine these features (imports `feature_extraction.py`).
